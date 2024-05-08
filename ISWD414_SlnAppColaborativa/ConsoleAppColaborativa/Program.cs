@@ -6,7 +6,7 @@
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hola, Kevin Quishpe");
-
+            Console.WriteLine("Hi, I´m Erick Mideros :P")
         }
     }
 }
